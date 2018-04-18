@@ -55,6 +55,9 @@ FileChannel, DatagramChannel, SocketChannel, ServerSocketChannel
 
 ## Selector
 
+使用Selector能够处理多个通道。
+
+
 
 # 参考
 
