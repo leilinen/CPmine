@@ -21,6 +21,8 @@ nio 中所有的操作都是在channels和buffers中进行的。数据从channel
 
 # nio 原理
 
+<img src="https://github.com/leilinen/CPmine/tree/master/NettyLearn/src/main/java/nio/file/nio.JPG" alt="nio data transport">
+
 
 
 # 参考
